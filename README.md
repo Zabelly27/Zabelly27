@@ -1,10 +1,7 @@
+#informaçoes pessoais 
 - 👋 Hi, I’m @Zabelly27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Isabelly.felix.pereira@gmail
+- 🌱 Estou interessado en aprender novas linguagens de programação
+- 💞️ estou aprendendo programação  a linguagem JavaScript e scratch
 
-<!---
-Zabelly27/Zabelly27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
